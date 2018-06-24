@@ -1,9 +1,20 @@
 import React from 'react';
+import ButtonStyleFactory from './Button.css';
 
 export const Button = ({
     onClick,
-    children
+    children,
+    type,
+    loading,
+    size,
+    shape
 }) => {
-    return <button onClick={onClick}>
+     
+    return <button style={ButtonStyleFactory({
+       type,
+       loading,
+       size,
+       shape
+    })} onClick={onClick}>
     {children}</button>
 }

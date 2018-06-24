@@ -1,6 +1,6 @@
 const colors = {
-    navy:"#001F3F",
-    blue:"#0074D9",
+    navy: "#001F3F",
+    blue: "#0074D9",
     aqua: "#7FDBFF",
     teal: "#39CCCC",
     olive: "#3D9970",
@@ -17,14 +17,11 @@ const colors = {
     gray: "#AAAAAA",
     silver: "#DDDDDD",
     white: "#FFFFFF"
-    
+
 };
 
 
 export default {
-    colors: {
-        
-    },
     foreground: {
         primary: colors.aqua,
         success: colors.navy,
