@@ -1,0 +1,29 @@
+{
+  "name": "stepui",
+  "version": "1.0.0",
+  "description": "A UI kit, as used by StepQA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",    
+    "storybook": "start-storybook -p $PORT -c .storybook"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepQA/stepUI.git"
+  },
+  "author": "elmarti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepQA/stepUI/issues"
+  },
+  "homepage": "https://github.com/stepQA/stepUI#readme",
+  "devDependencies": {
+    "@storybook/react": "^3.4.8",
+    "babel-core": "^6.26.3"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
