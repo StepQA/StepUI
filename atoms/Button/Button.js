@@ -15,6 +15,6 @@ export const Button = ({
        loading,
        size,
        shape
-    })} onClick={onClick}>
+    })} onClick={!loading ? onClick: ""}>
     {children}</button>
 }
