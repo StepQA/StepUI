@@ -4,9 +4,8 @@
   "description": "A UI kit, as used by StepQA",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",    
+    "test": "jest --json --outputFile=.jest-test-results.json",
     "storybook": "start-storybook -p $PORT -c .storybook"
-
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,9 @@
   "homepage": "https://github.com/stepQA/stepUI#readme",
   "devDependencies": {
     "@storybook/react": "^3.4.8",
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "jest": "^23.1.0",
+    "storybook-addon-jest": "0.0.1"
   },
   "dependencies": {
     "react": "^16.4.1",

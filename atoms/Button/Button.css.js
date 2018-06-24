@@ -1,4 +1,6 @@
-import { colors, constants, typography } from '../../core'
+import { colors, constants, typography } from '../../core';
+
+
 export default function({
     type = "default",
     size = "medium",
