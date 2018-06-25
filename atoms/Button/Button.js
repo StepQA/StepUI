@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonStyleFactory from './Button.css';
+import StyledButtonFactory from './Button.css';
 
 export const Button = ({
     onClick,
@@ -9,12 +9,12 @@ export const Button = ({
     size,
     shape
 }) => {
-     
-    return <button style={ButtonStyleFactory({
-       type,
+     const StyledButton = StyledButtonFactory({
+         type,
        loading,
        size,
        shape
-    })} onClick={!loading ? onClick: ""}>
-    {children}</button>
+     })
+    return <StyledButton onClick={!loading ? onClick: ""}>{children}</StyledButton>
+    
 }

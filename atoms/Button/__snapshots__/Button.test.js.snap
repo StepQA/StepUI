@@ -2,700 +2,280 @@
 
 exports[`ensuring loading buttons match snapshot renders the large danger loading button correctly 1`] = `
 <button
+  className="sc-kEYyzF epnNGE"
   onClick=""
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large default loading button correctly 1`] = `
 <button
+  className="sc-ckVGcZ hFWsAT"
   onClick=""
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large primary loading button correctly 1`] = `
 <button
+  className="sc-kgoBCf kYswgz"
   onClick=""
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large success loading button correctly 1`] = `
 <button
+  className="sc-cMljjf liidPb"
   onClick=""
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large warning loading button correctly 1`] = `
 <button
+  className="sc-eHgmQL ghyAof"
   onClick=""
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium danger loading button correctly 1`] = `
 <button
+  className="sc-kkGfuU jGcWbf"
   onClick=""
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium default loading button correctly 1`] = `
 <button
+  className="sc-jKJlTe jcYjQf"
   onClick=""
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium primary loading button correctly 1`] = `
 <button
+  className="sc-kGXeez gCxVoz"
   onClick=""
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium success loading button correctly 1`] = `
 <button
+  className="sc-jAaTju focFly"
   onClick=""
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium warning loading button correctly 1`] = `
 <button
+  className="sc-cvbbAY kIlToQ"
   onClick=""
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small danger loading button correctly 1`] = `
 <button
+  className="sc-iAyFgw dkZyKB"
   onClick=""
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small default loading button correctly 1`] = `
 <button
+  className="sc-eNQAEJ yRLrQ"
   onClick=""
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small primary loading button correctly 1`] = `
 <button
+  className="sc-kpOJdX Erhek"
   onClick=""
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small success loading button correctly 1`] = `
 <button
+  className="sc-jDwBTQ gdDgyX"
   onClick=""
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small warning loading button correctly 1`] = `
 <button
+  className="sc-jWBwVP ljvdll"
   onClick=""
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny danger loading button correctly 1`] = `
 <button
+  className="sc-hSdWYo cNOpjl"
   onClick=""
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny default loading button correctly 1`] = `
 <button
+  className="sc-hMqMXs gKsxvc"
   onClick=""
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny primary loading button correctly 1`] = `
 <button
+  className="sc-dxgOiQ jKHFCg"
   onClick=""
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny success loading button correctly 1`] = `
 <button
+  className="sc-gPEVay jRrHOX"
   onClick=""
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny warning loading button correctly 1`] = `
 <button
+  className="sc-brqgnP dYnmvc"
   onClick=""
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "wait",
-      "filter": "blur(1px)",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large danger button correctly 1`] = `
 <button
+  className="sc-htoDjs ilmbyB"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large default button correctly 1`] = `
 <button
+  className="sc-ifAKCX gXHimt"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large primary button correctly 1`] = `
 <button
+  className="sc-bdVaJa eSpynT"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large success button correctly 1`] = `
 <button
+  className="sc-jzJRlG jQKmxs"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large warning button correctly 1`] = `
 <button
+  className="sc-gqjmRU kSwMKk"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium danger button correctly 1`] = `
 <button
+  className="sc-dnqmqq fqAHdl"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium default button correctly 1`] = `
 <button
+  className="sc-EHOje bvtvJz"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium primary button correctly 1`] = `
 <button
+  className="sc-bwzfXH hLjXqq"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium success button correctly 1`] = `
 <button
+  className="sc-cSHVUG kdzsqe"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium warning button correctly 1`] = `
 <button
+  className="sc-VigVT ihOnE"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "1.2rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small danger button correctly 1`] = `
 <button
+  className="sc-iwsKbI fRZLzk"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small default button correctly 1`] = `
 <button
+  className="sc-bZQynM cRdmRb"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small primary button correctly 1`] = `
 <button
+  className="sc-htpNat DQIND"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small success button correctly 1`] = `
 <button
+  className="sc-kAzzGY jDrEQX"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small warning button correctly 1`] = `
 <button
+  className="sc-jTzLTM jcbo"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.8rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny danger button correctly 1`] = `
 <button
+  className="sc-gZMcBi hSPKAV"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FF4136",
-      "border": "0",
-      "color": "#FFFFFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny default button correctly 1`] = `
 <button
+  className="sc-gzVnrw jruqmd"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#AAAAAA",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny primary button correctly 1`] = `
 <button
+  className="sc-bxivhb ebqhIa"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#001F3F",
-      "border": "0",
-      "color": "#7FDBFF",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny success button correctly 1`] = `
 <button
+  className="sc-chPdSV gSWEDB"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#2ECC40",
-      "border": "0",
-      "color": "#001F3F",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny warning button correctly 1`] = `
 <button
+  className="sc-fjdhpX jTOykx"
   onClick={[Function]}
-  style={
-    Object {
-      "background": "#FFDC00",
-      "border": "0",
-      "color": "#85144b",
-      "cursor": "pointer",
-      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-      "fontSize": "0.7rem",
-      "padding": "5px 8px",
-    }
-  }
 />
 `;
