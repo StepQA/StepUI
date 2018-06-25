@@ -1,281 +1,1361 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`ensuring loading buttons match snapshot renders the large danger loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-kEYyzF epnNGE"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large default loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-ckVGcZ hFWsAT"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large primary loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-kgoBCf kYswgz"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large success loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-cMljjf liidPb"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the large warning loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-eHgmQL ghyAof"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium danger loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 1.2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-kkGfuU jGcWbf"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium default loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 1.2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-jKJlTe jcYjQf"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium primary loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 1.2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-kGXeez gCxVoz"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium success loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 1.2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-jAaTju focFly"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the medium warning loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 1.2rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-cvbbAY kIlToQ"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small danger loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 0.8rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-iAyFgw dkZyKB"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small default loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 0.8rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-eNQAEJ yRLrQ"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small primary loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 0.8rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-kpOJdX Erhek"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small success loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 0.8rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-jDwBTQ gdDgyX"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the small warning loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 0.8rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-jWBwVP ljvdll"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny danger loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 0.7rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-hSdWYo cNOpjl"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny default loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 0.7rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-hMqMXs gKsxvc"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny primary loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 0.7rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-dxgOiQ jKHFCg"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny success loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 0.7rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-gPEVay jRrHOX"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring loading buttons match snapshot renders the tiny warning loading button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 0.7rem;
+  -webkit-filter: blur(1px);
+  filter: blur(1px);
+  cursor: wait;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-brqgnP dYnmvc"
+  className="c0"
   onClick=""
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large danger button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-htoDjs ilmbyB"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large default button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-ifAKCX gXHimt"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large primary button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-bdVaJa eSpynT"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large success button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-jzJRlG jQKmxs"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the large warning button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-gqjmRU kSwMKk"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium danger button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 1.2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-dnqmqq fqAHdl"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium default button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 1.2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-EHOje bvtvJz"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium primary button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 1.2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-bwzfXH hLjXqq"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium success button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 1.2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-cSHVUG kdzsqe"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the medium warning button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 1.2rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-VigVT ihOnE"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small danger button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 0.8rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-iwsKbI fRZLzk"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small default button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 0.8rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-bZQynM cRdmRb"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small primary button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 0.8rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-htpNat DQIND"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small success button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 0.8rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-kAzzGY jDrEQX"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the small warning button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 0.8rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-jTzLTM jcbo"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny danger button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFFFFF;
+  background: #FF4136;
+  font-size: 0.7rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #FFFFFF;
+  top: -2px;
+}
+
 <button
-  className="sc-gZMcBi hSPKAV"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny default button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #AAAAAA;
+  font-size: 0.7rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-gzVnrw jruqmd"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny primary button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #7FDBFF;
+  background: #001F3F;
+  font-size: 0.7rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #7FDBFF;
+  top: -2px;
+}
+
 <button
-  className="sc-bxivhb ebqhIa"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny success button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #001F3F;
+  background: #2ECC40;
+  font-size: 0.7rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #001F3F;
+  top: -2px;
+}
+
 <button
-  className="sc-chPdSV gSWEDB"
+  className="c0"
   onClick={[Function]}
 />
 `;
 
 exports[`ensuring regular buttons match snapshot renders the tiny warning button correctly 1`] = `
+.c0 {
+  border: 0;
+  padding: 5px 8px;
+  cursor: pointer;
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #85144b;
+  background: #FFDC00;
+  font-size: 0.7rem;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.c0:active {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-filter: brightness(85%);
+  filter: brightness(85%);
+}
+
+.c0:hover {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: 0 4px #85144b;
+  top: -2px;
+}
+
 <button
-  className="sc-fjdhpX jTOykx"
+  className="c0"
   onClick={[Function]}
 />
 `;

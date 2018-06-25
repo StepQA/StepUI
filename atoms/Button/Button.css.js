@@ -26,7 +26,7 @@ export default function({
         color:${colors.foreground[type]};
         background:${colors.background[type]};
         font-size:${typography.sizes[size]};
-        ${loading ? "filter:blur(1px); cursor:wait;": "cursor:pointer;"}
+        ${loading ? "filter:blur(1px); cursor:wait;": "cursor:pointer; transition: all 0.3s; "}
         ${shape === "circle" ? "border-radius:50%": ""}
             &:active {
               transition: all 0.2s; 
