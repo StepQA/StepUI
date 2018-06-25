@@ -32,8 +32,6 @@ export default function({
     if(shape === "circle"){
         style.borderRadius = "50%";
     }
-
-
-
+    
     return style;
 }

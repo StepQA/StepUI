@@ -1,0 +1,701 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ensuring loading buttons match snapshot renders the large danger loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the large default loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the large primary loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the large success loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the large warning loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the medium danger loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the medium default loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the medium primary loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the medium success loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the medium warning loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the small danger loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the small default loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the small primary loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the small success loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the small warning loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the tiny danger loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the tiny default loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the tiny primary loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the tiny success loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring loading buttons match snapshot renders the tiny warning loading button correctly 1`] = `
+<button
+  onClick=""
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "wait",
+      "filter": "blur(1px)",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the large danger button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the large default button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the large primary button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the large success button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the large warning button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the medium danger button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the medium default button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the medium primary button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the medium success button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the medium warning button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "1.2rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the small danger button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the small default button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the small primary button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the small success button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the small warning button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.8rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the tiny danger button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FF4136",
+      "border": "0",
+      "color": "#FFFFFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the tiny default button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#AAAAAA",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the tiny primary button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#001F3F",
+      "border": "0",
+      "color": "#7FDBFF",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the tiny success button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#2ECC40",
+      "border": "0",
+      "color": "#001F3F",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
+
+exports[`ensuring regular buttons match snapshot renders the tiny warning button correctly 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "background": "#FFDC00",
+      "border": "0",
+      "color": "#85144b",
+      "cursor": "pointer",
+      "fontFamily": "Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+      "fontSize": "0.7rem",
+      "padding": "5px 8px",
+    }
+  }
+/>
+`;
