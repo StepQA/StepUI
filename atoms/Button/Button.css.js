@@ -18,6 +18,15 @@ export default function({
     if (!hasSize) {
         console.warn(`Invalid button size: ${size}`)
     }
+    const active = !loading ? `&:active {
+              transition: all 0.2s; 
+              filter: brightness(85%);
+            }`: "";
+    const hover = !loading ? `&:hover {
+                transition: all 0.3s; 
+                box-shadow: 0 4px ${colors.foreground[type]};
+                top: -2px;
+            }`: "";
     const StyledButton = styled.button `
         border: 0;
         padding: 5px 8px;
@@ -28,15 +37,8 @@ export default function({
         font-size:${typography.sizes[size]};
         ${loading ? "filter:blur(1px); cursor:wait;": "cursor:pointer; transition: all 0.3s; "}
         ${shape === "circle" ? "border-radius:50%": ""}
-            &:active {
-              transition: all 0.2s; 
-              filter: brightness(85%);
-            }
-            &:hover {
-                transition: all 0.3s; 
-                box-shadow: 0 4px ${colors.foreground[type]};
-                top: -2px;
-            }
+            ${active}
+            ${hover}
             
         }
         `;
