@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { mount } from 'enzyme';
-import { Button } from './Button';
+import { Button } from './';
 import { constants } from '../../core';
 describe('ensuring regular buttons match snapshot', () => {
   constants.types.forEach(type => {
