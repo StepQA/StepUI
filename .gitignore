@@ -1,4 +1,3 @@
 node_modules
 .jest-test-results.json
 yarn-error.log
-.idea
